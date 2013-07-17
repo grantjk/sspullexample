@@ -22,9 +22,9 @@
 		7B0529FE17961FC00078736A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7B0529FC17961FC00078736A /* InfoPlist.strings */; };
 		7B052A0117961FC00078736A /* sspullexampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A0017961FC00078736A /* sspullexampleTests.m */; };
 		7B052A0C17961FDD0078736A /* JGARootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A0B17961FDD0078736A /* JGARootViewController.m */; };
-		7B052A15179620740078736A /* SSPullToRefreshDefaultContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A10179620740078736A /* SSPullToRefreshDefaultContentView.m */; };
-		7B052A16179620740078736A /* SSPullToRefreshSimpleContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A12179620740078736A /* SSPullToRefreshSimpleContentView.m */; };
-		7B052A17179620740078736A /* SSPullToRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A14179620740078736A /* SSPullToRefreshView.m */; };
+		7B052A20179630B50078736A /* SSPullToRefreshDefaultContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A1B179630B50078736A /* SSPullToRefreshDefaultContentView.m */; };
+		7B052A21179630B50078736A /* SSPullToRefreshSimpleContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A1D179630B50078736A /* SSPullToRefreshSimpleContentView.m */; };
+		7B052A22179630B50078736A /* SSPullToRefreshView.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B052A1F179630B50078736A /* SSPullToRefreshView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,13 +59,13 @@
 		7B052A0017961FC00078736A /* sspullexampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sspullexampleTests.m; sourceTree = "<group>"; };
 		7B052A0A17961FDD0078736A /* JGARootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JGARootViewController.h; sourceTree = "<group>"; };
 		7B052A0B17961FDD0078736A /* JGARootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JGARootViewController.m; sourceTree = "<group>"; };
-		7B052A0E179620740078736A /* SSPullToRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefresh.h; sourceTree = "<group>"; };
-		7B052A0F179620740078736A /* SSPullToRefreshDefaultContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshDefaultContentView.h; sourceTree = "<group>"; };
-		7B052A10179620740078736A /* SSPullToRefreshDefaultContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPullToRefreshDefaultContentView.m; sourceTree = "<group>"; };
-		7B052A11179620740078736A /* SSPullToRefreshSimpleContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshSimpleContentView.h; sourceTree = "<group>"; };
-		7B052A12179620740078736A /* SSPullToRefreshSimpleContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPullToRefreshSimpleContentView.m; sourceTree = "<group>"; };
-		7B052A13179620740078736A /* SSPullToRefreshView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshView.h; sourceTree = "<group>"; };
-		7B052A14179620740078736A /* SSPullToRefreshView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPullToRefreshView.m; sourceTree = "<group>"; };
+		7B052A19179630B50078736A /* SSPullToRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefresh.h; sourceTree = "<group>"; };
+		7B052A1A179630B50078736A /* SSPullToRefreshDefaultContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshDefaultContentView.h; sourceTree = "<group>"; };
+		7B052A1B179630B50078736A /* SSPullToRefreshDefaultContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPullToRefreshDefaultContentView.m; sourceTree = "<group>"; };
+		7B052A1C179630B50078736A /* SSPullToRefreshSimpleContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshSimpleContentView.h; sourceTree = "<group>"; };
+		7B052A1D179630B50078736A /* SSPullToRefreshSimpleContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPullToRefreshSimpleContentView.m; sourceTree = "<group>"; };
+		7B052A1E179630B50078736A /* SSPullToRefreshView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshView.h; sourceTree = "<group>"; };
+		7B052A1F179630B50078736A /* SSPullToRefreshView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSPullToRefreshView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,7 +129,7 @@
 				7B0529E517961FC00078736A /* JGAAppDelegate.m */,
 				7B052A0A17961FDD0078736A /* JGARootViewController.h */,
 				7B052A0B17961FDD0078736A /* JGARootViewController.m */,
-				7B052A0D179620740078736A /* SSPullToRefresh */,
+				7B052A18179630B50078736A /* SSPullToRefresh */,
 				7B0529DC17961FBF0078736A /* Supporting Files */,
 			);
 			path = sspullexample;
@@ -168,19 +168,18 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7B052A0D179620740078736A /* SSPullToRefresh */ = {
+		7B052A18179630B50078736A /* SSPullToRefresh */ = {
 			isa = PBXGroup;
 			children = (
-				7B052A0E179620740078736A /* SSPullToRefresh.h */,
-				7B052A0F179620740078736A /* SSPullToRefreshDefaultContentView.h */,
-				7B052A10179620740078736A /* SSPullToRefreshDefaultContentView.m */,
-				7B052A11179620740078736A /* SSPullToRefreshSimpleContentView.h */,
-				7B052A12179620740078736A /* SSPullToRefreshSimpleContentView.m */,
-				7B052A13179620740078736A /* SSPullToRefreshView.h */,
-				7B052A14179620740078736A /* SSPullToRefreshView.m */,
+				7B052A19179630B50078736A /* SSPullToRefresh.h */,
+				7B052A1A179630B50078736A /* SSPullToRefreshDefaultContentView.h */,
+				7B052A1B179630B50078736A /* SSPullToRefreshDefaultContentView.m */,
+				7B052A1C179630B50078736A /* SSPullToRefreshSimpleContentView.h */,
+				7B052A1D179630B50078736A /* SSPullToRefreshSimpleContentView.m */,
+				7B052A1E179630B50078736A /* SSPullToRefreshView.h */,
+				7B052A1F179630B50078736A /* SSPullToRefreshView.m */,
 			);
-			name = SSPullToRefresh;
-			path = ../../sspulltorefresh/SSPullToRefresh;
+			path = SSPullToRefresh;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,9 +295,9 @@
 				7B0529E217961FC00078736A /* main.m in Sources */,
 				7B0529E617961FC00078736A /* JGAAppDelegate.m in Sources */,
 				7B052A0C17961FDD0078736A /* JGARootViewController.m in Sources */,
-				7B052A15179620740078736A /* SSPullToRefreshDefaultContentView.m in Sources */,
-				7B052A16179620740078736A /* SSPullToRefreshSimpleContentView.m in Sources */,
-				7B052A17179620740078736A /* SSPullToRefreshView.m in Sources */,
+				7B052A20179630B50078736A /* SSPullToRefreshDefaultContentView.m in Sources */,
+				7B052A21179630B50078736A /* SSPullToRefreshSimpleContentView.m in Sources */,
+				7B052A22179630B50078736A /* SSPullToRefreshView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
